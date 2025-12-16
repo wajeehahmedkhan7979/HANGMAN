@@ -1,16 +1,16 @@
 # HANGMAN
 
-Description
------------
+## Description
+
 HANGMAN is a simple Hangman-style word-guess web application built with Flask. It includes a minimal UI under `templates/` and styling under `static/` to run a local word-guess game.
 
-Requirements
-------------
+## Requirements
+
 - Python 3.8+
 - Flask (install with `pip install Flask`)
 
-Quick start
------------
+## Quick start
+
 1. (Optional) Create and activate a virtual environment:
 
    - Windows (PowerShell): `python -m venv venv; .\venv\Scripts\Activate.ps1`
@@ -23,6 +23,6 @@ Quick start
 
    `python app.py`
 
-Repository
-----------
+## Repository
+
 This repository is intended to be published as a public GitHub repository named `HANGMAN`.
